@@ -10,5 +10,5 @@ const Propse = ({ data }) => {
     </div>
   )
 }
-
+z
 export default Propse;
